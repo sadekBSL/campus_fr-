@@ -1,0 +1,17 @@
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Bouss\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Bouss\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Bouss\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Bouss\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\WebDriver.dll
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\WebDriver.Support.dll
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\WebDriver.xml
+C:\Users\Bouss\source\repos\ConsoleApp2\bin\Debug\WebDriver.Support.xml
+C:\Users\Bouss\source\repos\ConsoleApp2\obj\Debug\ConsoleA.D5FB4C91.Up2Date
